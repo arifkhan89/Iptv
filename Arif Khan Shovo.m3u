@@ -1,0 +1,142 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR JALSHA HD" tvg-logo="" group-title="Indian Bangla",STAR JALSHA HD
+http://102.222.232.18:9981/stream/channelid/1504925537
+#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-name="Zee Bangla HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_web/1170x658310781121.png" group-title="Indian Bangla",Zee Bangla HD
+https://zee5.yashrajmod.online/api.php?c=0-9-zeebangla
+
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_web/1170x658withlog1238879598.png" group-title="Indian Bangla",Zee Bangla Cinema
+https://zee5.yashrajmod.online/api.php?c=0-9-zeebanglacinema
+
+#EXTINF:-1 tvg-id="0-9-ddbangla" tvg-name="DD Bangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddbangla/channel_web/1170x658withlog_1242891543.png" group-title="Indian Bangla",DD Bangla
+https://zee5.yashrajmod.online/api.php?c=0-9-ddbangla
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Aath" tvg-logo="" group-title="Indian Bangla",Sony Aath
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_web/1170x658withlog_2022520414.png" group-title="Entertainment",Big Magic
+https://zee5.yashrajmod.online/api.php?c=0-9-bigmagic_1786965389
+
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_web/1170x658withlog1554775145.png" group-title="Entertainment",Zee TV HD
+https://zee5.yashrajmod.online/api.php?c=0-9-zeetvhd
+
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="Entertainment",&TV HD
+https://zee5.yashrajmod.online/api.php?c=0-9-tvhd_0
+
+#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-name="Zee Anmol" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347.png" group-title="Entertainment",Zee Anmol
+https://zee5.yashrajmod.online/api.php?c=0-9-zeeanmol
+
+#EXTINF:-1 tvg-id="0-9-165" tvg-name="Boogle Bollywood" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-165/channel_web/1170x658withlog_1849594732.png" group-title="Entertainment",Boogle Bollywood
+https://zee5.yashrajmod.online/api.php?c=0-9-165
+
+#EXTINF:-1 tvg-id="0-9-165" tvg-name="Boogle Bollywood" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-165/channel_web/1170x658withlog_1849594732.png" group-title="Entertainment",Boogle Bollywood
+https://zee5.yashrajmod.online/api.php?c=0-9-165
+
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR PLUS HD" tvg-logo="" group-title="Entertainment",STAR PLUS HD
+http://102.222.232.18:9981/stream/channelid/1482015307
+#EXTINF:-1 tvg-id="ext" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
+http://102.222.232.18:9981/stream/channelid/338520198
+#EXTINF:-1 tvg-id="ext" tvg-name="Colosr Rishtey" tvg-logo="" group-title="Entertainment",Colosr Rishtey
+http://102.222.232.18:9981/stream/channelid/1686819510
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Kal" tvg-logo="" group-title="Entertainment",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Wah" tvg-logo="" group-title="Entertainment",Sony Wah
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Pal" tvg-logo="" group-title="Entertainment",Sony Pal
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Sab HD" tvg-logo="" group-title="Entertainment",Sony Sab HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Set HD" tvg-logo="" group-title="Entertainment",Sony Set HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Max 2" tvg-logo="" group-title="Movies",Sony Max 2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Max HD" tvg-logo="" group-title="Movies",Sony Max HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Max" tvg-logo="" group-title="Movies",Sony Max
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-name="Zee Cinema HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png" group-title="Movies",Zee Cinema HD
+https://zee5.yashrajmod.online/api.php?c=0-9-zeecinemahd
+
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-name="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title="Movies",&Pictures HD
+https://zee5.yashrajmod.online/api.php?c=0-9-tvpictureshd
+
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-name="Zee Anmol Cinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png" group-title="Movies",Zee Anmol Cinema
+https://zee5.yashrajmod.online/api.php?c=0-9-zeeanmolcinema
+
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-name="Zee Bollywood" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658e6b59efbc9c5471f9392f477f91f0c11.png" group-title="Movies",Zee Bollywood
+https://zee5.yashrajmod.online/api.php?c=0-9-zeeclassic
+
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-name="Zee Cinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654.png" group-title="Movies",Zee Cinema
+https://zee5.yashrajmod.online/api.php?c=0-9-zeecinema
+
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-name="Zee Action" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png" group-title="Movies",Zee Action
+https://zee5.yashrajmod.online/api.php?c=0-9-zeeaction
+
+#EXTINF:-1 tvg-id="0-9-176" tvg-name="Zee Classic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658d4d3573a17f24dcdb86c0da75e7208e8.png" group-title="Movies",Zee Classic
+https://zee5.yashrajmod.online/0/api.php?c=0-9-176
+
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo358457080.png" group-title="Movies",&xplorHD
+https://zee5.yashrajmod.online/api.php?c=0-9-209
+
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR GOLD SELECT HD" tvg-logo="" group-title="Movies",STAR GOLD SELECT HD
+http://102.222.232.18:9981/stream/channelid/1289136274
+#EXTINF:-1 tvg-id="ext" tvg-name="UTV ACTION" tvg-logo="" group-title="Movies",UTV ACTION
+http://102.222.232.18:9981/stream/channelid/1452596058
+#EXTINF:-1 tvg-id="ext" tvg-name="COLORS CINEPLEX HD" tvg-logo="" group-title="Movies",COLORS CINEPLEX HD
+http://102.222.232.18:9981/stream/channelid/57589000
+#EXTINF:-1 tvg-id="ext" tvg-name="B4U MOVIES" tvg-logo="" group-title="Movies",B4U MOVIES
+http://102.222.232.18:9981/stream/channelid/161855489
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV India" tvg-logo="" group-title="Music",MTV India
+http://102.222.232.18:9981/stream/channelid/1420751392
+#EXTINF:-1 tvg-id="ext" tvg-name="B4U Music" tvg-logo="" group-title="Music",B4U Music
+http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/1368
+#EXTINF:-1 tvg-id="ext" tvg-name="9X Jalwa" tvg-logo="" group-title="Music",9X Jalwa
+http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/45465
+#EXTINF:-1 tvg-id="ext" tvg-name="& Xplor" tvg-logo="" group-title="Music",& Xplor
+http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/196116
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Pix" tvg-logo="" group-title="English",Sony Pix
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 tvg-id="0-9-priv?hd" tvg-name="&Prive HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-priv?hd/channel_web/1170x658withlogo_375086496.png" group-title="English",&Prive HD
+https://zee5.yashrajmod.online/api.php?c=0-9-priv?hd
+
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png" group-title="English",&flix HD
+https://zee5.yashrajmod.online/api.php?c=0-9-channel_2105335046
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ACTION MOVIES" tvg-logo="" group-title="English",ACTION MOVIES
+http://102.222.232.18:9981/stream/channelid/718210474
+#EXTINF:-1 tvg-id="ext" tvg-name="MNX HD" tvg-logo="" group-title="English",MNX HD
+http://102.222.232.18:9981/stream/channelid/1102428313
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="English",STAR MOVIES HD
+http://102.222.232.18:9981/stream/channelid/1581697754
+#EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet [HINDI]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/animalplanet.png" group-title="Infotainment",Animal Planet [HINDI]
+https://sabbirhasan.pythonanywhere.com/dplus/animalplanet-hin
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery [BENGALI]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png" group-title="Infotainment",Discovery [BENGALI]
+https://sabbirhasan.pythonanywhere.com/dplus/discovery-ben
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="Infotainment",NAT GEO WILD HD
+http://102.222.232.18:9981/stream/channelid/934847300
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony BBC Earth HD" tvg-logo="" group-title="Infotainment",Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony BBC Earth HD Dhaka Flix" tvg-logo="" group-title="Infotainment",Sony BBC Earth HD Dhaka Flix
+http://172.16.50.2:8082/Bbc-Earth/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO WILD HD Dhaka Flix" tvg-logo="" group-title="Infotainment",NAT GEO WILD HD Dhaka Flix
+http://172.16.50.2:8082/Nat-Geo/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery [BENGALI] Dhaka Flix" tvg-logo="" group-title="Infotainment",Discovery [BENGALI] Dhaka Flix
+http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Science [HINDI]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discoveryscience.png" group-title="Infotainment",Discovery Science [HINDI]
+https://sabbirhasan.pythonanywhere.com/dplus/discoverysci-hin
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Investigation [HINDI]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Infotainment",Discovery Investigation [HINDI]
+https://sabbirhasan.pythonanywhere.com/dplus/discoveryid-hin
+#EXTINF:-1 tvg-id="ext" tvg-name="TLC [HINDI]" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/tlc.png" group-title="Infotainment",TLC [HINDI]
+https://sabbirhasan.pythonanywhere.com/dplus/tlc-hin
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Yay" tvg-logo="" group-title="Kids",Sony Yay
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Star Select 1 HD" tvg-logo="" group-title="Sports",Star Select 1 HD
+http://208.86.19.13:81/7366.stream/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PTV Sports" tvg-logo="" group-title="Sports",PTV Sports
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/16633
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony ten 1 HD" tvg-logo="" group-title="Sports",Sony ten 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Ten 2 HD" tvg-logo="" group-title="Sports",Sony Ten 2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="Sports",Sony Ten 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Ten 5 HD" tvg-logo="" group-title="Sports",Sony Ten 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
